@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sentinel
 A toolkit for visualization, early detection and prediction of disease outbreaks (Malaria, Diarrhea, etc.)
 
@@ -40,3 +41,7 @@ A toolkit for visualization, early detection and prediction of disease outbreaks
 <img src="csum.png" >
 
 
+=======
+# Sentinel-windows
+Sentinel early warning detection system on windows
+>>>>>>> 42ca30013dd31a733d6fb15d8c3cd5b6f748eedf
